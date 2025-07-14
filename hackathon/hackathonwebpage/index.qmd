@@ -1,5 +1,0 @@
----
-title: "VNIR Spectroscopic Sensing of Plastic Waste"
-format: html
----
-# test
